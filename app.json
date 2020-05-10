@@ -18,6 +18,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.iblinfotech.app.TestAppInExpo",
+      "buildNumber": "1",
       "infoPlist": {
         "NSFaceIDUsageDescription": "IBL wants to use your face id"
       }
